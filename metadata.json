@@ -1,0 +1,8 @@
+{
+  "name": "App Builder Masterclass",
+  "description": "A comprehensive masterclass tutorial on building apps, featuring 13 expert roles and advanced AI capabilities including voice, image generation, and video animation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
